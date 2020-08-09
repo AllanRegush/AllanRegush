@@ -1,5 +1,7 @@
 ## :wave: Hello, World
 
+
+##### My Recent Activity
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#115](https://github.com//eddiejaoude/book-open-source-tips/pull/115) in [eddiejaoude/book-open-source-tips](https://github.com//eddiejaoude/book-open-source-tips)
 2. ❗️ Opened issue [#170](https://github.com//EddieJaoudeCommunity/EddieBot/issues/170) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
