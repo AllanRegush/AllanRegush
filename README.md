@@ -1,5 +1,7 @@
 ## :wave: Hello, World
 
+<!--START_SECTION:activity-->
+
 <!--
 **AllanRegush/AllanRegush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
