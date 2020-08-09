@@ -1,6 +1,12 @@
 ## :wave: Hello, World
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#115](https://github.com//eddiejaoude/book-open-source-tips/pull/115) in [eddiejaoude/book-open-source-tips](https://github.com//eddiejaoude/book-open-source-tips)
+2. ❗️ Opened issue [#170](https://github.com//EddieJaoudeCommunity/EddieBot/issues/170) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+3. 💪 Opened PR [#831](https://github.com//scullyio/scully/pull/831) in [scullyio/scully](https://github.com//scullyio/scully)
+4. ❗️ Opened issue [#830](https://github.com//scullyio/scully/issues/830) in [scullyio/scully](https://github.com//scullyio/scully)
+5. 💪 Opened PR [#168](https://github.com//EddieJaoudeCommunity/EddieBot/pull/168) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+<!--END_SECTION:activity-->
 
 <!--
 **AllanRegush/AllanRegush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
