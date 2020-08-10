@@ -3,11 +3,11 @@
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#181](https://github.com//EddieJaoudeCommunity/EddieBot/pull/181) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
-2. 💪 Opened PR [#115](https://github.com//eddiejaoude/book-open-source-tips/pull/115) in [eddiejaoude/book-open-source-tips](https://github.com//eddiejaoude/book-open-source-tips)
-3. ❗️ Opened issue [#170](https://github.com//EddieJaoudeCommunity/EddieBot/issues/170) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
-4. 💪 Opened PR [#831](https://github.com//scullyio/scully/pull/831) in [scullyio/scully](https://github.com//scullyio/scully)
-5. ❗️ Opened issue [#830](https://github.com//scullyio/scully/issues/830) in [scullyio/scully](https://github.com//scullyio/scully)
+1. ❗️ Opened issue [#49](https://github.com//EddieJaoudeCommunity/support/issues/49) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+2. 💪 Opened PR [#181](https://github.com//EddieJaoudeCommunity/EddieBot/pull/181) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+3. 💪 Opened PR [#115](https://github.com//eddiejaoude/book-open-source-tips/pull/115) in [eddiejaoude/book-open-source-tips](https://github.com//eddiejaoude/book-open-source-tips)
+4. ❗️ Opened issue [#170](https://github.com//EddieJaoudeCommunity/EddieBot/issues/170) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+5. 💪 Opened PR [#831](https://github.com//scullyio/scully/pull/831) in [scullyio/scully](https://github.com//scullyio/scully)
 <!--END_SECTION:activity-->
 
 <!--
