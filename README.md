@@ -1,5 +1,6 @@
 ## :wave: Hello, World
 
+I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all things Hardware and Software. Due to my interests I consider myself a jack of all trades but a master of some.
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
