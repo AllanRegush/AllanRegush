@@ -4,11 +4,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#170](https://github.com//ErikCH/DevYouTubeList/pull/170) in [ErikCH/DevYouTubeList](https://github.com//ErikCH/DevYouTubeList)
-2. 💪 Opened PR [#182](https://github.com//EddieJaoudeCommunity/EddieBot/pull/182) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
-3. ❗️ Opened issue [#49](https://github.com//EddieJaoudeCommunity/support/issues/49) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-4. 💪 Opened PR [#181](https://github.com//EddieJaoudeCommunity/EddieBot/pull/181) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
-5. 💪 Opened PR [#115](https://github.com//eddiejaoude/book-open-source-tips/pull/115) in [eddiejaoude/book-open-source-tips](https://github.com//eddiejaoude/book-open-source-tips)
+1. ❗️ Opened issue [#64](https://github.com//EddieJaoudeCommunity/support/issues/64) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+2. 💪 Opened PR [#170](https://github.com//ErikCH/DevYouTubeList/pull/170) in [ErikCH/DevYouTubeList](https://github.com//ErikCH/DevYouTubeList)
+3. 💪 Opened PR [#182](https://github.com//EddieJaoudeCommunity/EddieBot/pull/182) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+4. ❗️ Opened issue [#49](https://github.com//EddieJaoudeCommunity/support/issues/49) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+5. 💪 Opened PR [#181](https://github.com//EddieJaoudeCommunity/EddieBot/pull/181) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
 <!--END_SECTION:activity-->
 
 <!--
