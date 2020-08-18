@@ -4,11 +4,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#64](https://github.com//EddieJaoudeCommunity/support/issues/64) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-2. 🗣 Commented on [#64](https://github.com//EddieJaoudeCommunity/support/issues/64) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-3. ❗️ Opened issue [#64](https://github.com//EddieJaoudeCommunity/support/issues/64) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-4. 💪 Opened PR [#170](https://github.com//ErikCH/DevYouTubeList/pull/170) in [ErikCH/DevYouTubeList](https://github.com//ErikCH/DevYouTubeList)
-5. 💪 Opened PR [#182](https://github.com//EddieJaoudeCommunity/EddieBot/pull/182) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+1. ❗️ Opened issue [#14](https://github.com//EddieJaoudeCommunity/EddieBotUI/issues/14) in [EddieJaoudeCommunity/EddieBotUI](https://github.com//EddieJaoudeCommunity/EddieBotUI)
+2. ❗️ Opened issue [#147](https://github.com//orangeduck/BuildYourOwnLisp/issues/147) in [orangeduck/BuildYourOwnLisp](https://github.com//orangeduck/BuildYourOwnLisp)
+3. ❗️ Closed issue [#64](https://github.com//EddieJaoudeCommunity/support/issues/64) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+4. 🗣 Commented on [#64](https://github.com//EddieJaoudeCommunity/support/issues/64) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+5. ❗️ Opened issue [#64](https://github.com//EddieJaoudeCommunity/support/issues/64) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
 
 <!--
