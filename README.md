@@ -4,11 +4,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#200](https://github.com//EddieJaoudeCommunity/EddieBot/issues/200) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
-2. ❗️ Opened issue [#17](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/17) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-3. 💪 Opened PR [#200](https://github.com//EddieJaoudeCommunity/EddieBot/pull/200) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
-4. 💪 Opened PR [#15](https://github.com//EddieJaoudeCommunity/EddieBotUI/pull/15) in [EddieJaoudeCommunity/EddieBotUI](https://github.com//EddieJaoudeCommunity/EddieBotUI)
-5. 🗣 Commented on [#14](https://github.com//EddieJaoudeCommunity/EddieBotUI/issues/14) in [EddieJaoudeCommunity/EddieBotUI](https://github.com//EddieJaoudeCommunity/EddieBotUI)
+1. 🗣 Commented on [#198](https://github.com//EddieJaoudeCommunity/EddieBot/issues/198) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+2. 🗣 Commented on [#200](https://github.com//EddieJaoudeCommunity/EddieBot/issues/200) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+3. ❗️ Opened issue [#17](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/17) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+4. 💪 Opened PR [#200](https://github.com//EddieJaoudeCommunity/EddieBot/pull/200) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+5. 💪 Opened PR [#15](https://github.com//EddieJaoudeCommunity/EddieBotUI/pull/15) in [EddieJaoudeCommunity/EddieBotUI](https://github.com//EddieJaoudeCommunity/EddieBotUI)
 <!--END_SECTION:activity-->
 
 <!--
