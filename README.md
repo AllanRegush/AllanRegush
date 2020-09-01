@@ -4,11 +4,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#39](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/pull/39) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-2. 🗣 Commented on [#137](https://github.com//EddieJaoudeCommunity/support/issues/137) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-3. 🗣 Commented on [#35](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/35) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-4. ❗️ Opened issue [#35](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/35) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-5. ❗️ Opened issue [#34](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/34) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+1. ❗️ Opened issue [#40](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/40) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+2. 💪 Opened PR [#39](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/pull/39) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+3. 🗣 Commented on [#137](https://github.com//EddieJaoudeCommunity/support/issues/137) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+4. 🗣 Commented on [#35](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/35) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+5. ❗️ Opened issue [#35](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/35) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com//EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
 <!--END_SECTION:activity-->
 
 <!--
