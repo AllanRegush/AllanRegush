@@ -4,11 +4,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/37) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
-2. 🗣 Commented on [#37](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/37) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
-3. ❗️ Opened issue [#37](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/37) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
-4. 🗣 Commented on [#211](https://github.com//EddieJaoudeCommunity/EddieBot/issues/211) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
-5. 💪 Opened PR [#212](https://github.com//EddieJaoudeCommunity/EddieBot/pull/212) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+1. ❌ Closed PR [#39](https://github.com//EddieJaoudeCommunity/gh-action-community/pull/39) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
+2. 💪 Opened PR [#39](https://github.com//EddieJaoudeCommunity/gh-action-community/pull/39) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
+3. 🗣 Commented on [#37](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/37) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
+4. 🗣 Commented on [#37](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/37) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
+5. ❗️ Opened issue [#37](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/37) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
 <!--END_SECTION:activity-->
 
 <!--
