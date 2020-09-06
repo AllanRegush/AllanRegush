@@ -4,11 +4,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#39](https://github.com//EddieJaoudeCommunity/gh-action-community/pull/39) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
-2. 💪 Opened PR [#39](https://github.com//EddieJaoudeCommunity/gh-action-community/pull/39) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
-3. 🗣 Commented on [#37](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/37) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
+1. 💪 Opened PR [#41](https://github.com//EddieJaoudeCommunity/gh-action-community/pull/41) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
+2. ❌ Closed PR [#39](https://github.com//EddieJaoudeCommunity/gh-action-community/pull/39) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
+3. 💪 Opened PR [#39](https://github.com//EddieJaoudeCommunity/gh-action-community/pull/39) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
 4. 🗣 Commented on [#37](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/37) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
-5. ❗️ Opened issue [#37](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/37) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
+5. 🗣 Commented on [#37](https://github.com//EddieJaoudeCommunity/gh-action-community/issues/37) in [EddieJaoudeCommunity/gh-action-community](https://github.com//EddieJaoudeCommunity/gh-action-community)
 <!--END_SECTION:activity-->
 
 <!--
