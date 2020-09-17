@@ -4,11 +4,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#166](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/166) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-2. 🗣 Commented on [#206](https://github.com//EddieJaoudeCommunity/support/issues/206) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-3. ❗️ Opened issue [#12](https://github.com//EddieJaoudeCommunity/gh-actions-html-table-generator/issues/12) in [EddieJaoudeCommunity/gh-actions-html-table-generator](https://github.com//EddieJaoudeCommunity/gh-actions-html-table-generator)
-4. ❗️ Opened issue [#230](https://github.com//EddieJaoudeCommunity/EddieBot/issues/230) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
-5. 🗣 Commented on [#21](https://github.com//EddieJaoudeCommunity/EddieBotUI/issues/21) in [EddieJaoudeCommunity/EddieBotUI](https://github.com//EddieJaoudeCommunity/EddieBotUI)
+1. 🎉 Merged PR [#167](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/167) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+2. 🎉 Merged PR [#166](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/166) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+3. 🗣 Commented on [#206](https://github.com//EddieJaoudeCommunity/support/issues/206) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
+4. ❗️ Opened issue [#12](https://github.com//EddieJaoudeCommunity/gh-actions-html-table-generator/issues/12) in [EddieJaoudeCommunity/gh-actions-html-table-generator](https://github.com//EddieJaoudeCommunity/gh-actions-html-table-generator)
+5. ❗️ Opened issue [#230](https://github.com//EddieJaoudeCommunity/EddieBot/issues/230) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
 <!--END_SECTION:activity-->
 
 <!--
