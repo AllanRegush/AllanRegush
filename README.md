@@ -4,7 +4,7 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#237](https://github.com//EddieJaoudeCommunity/EddieBot/issues/237) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
+1. 💪 Opened PR [#241](https://github.com//EddieJaoudeCommunity/EddieBot/pull/241) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
 2. 🗣 Commented on [#237](https://github.com//EddieJaoudeCommunity/EddieBot/issues/237) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
 3. 🗣 Commented on [#237](https://github.com//EddieJaoudeCommunity/EddieBot/issues/237) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
 4. 🗣 Commented on [#237](https://github.com//EddieJaoudeCommunity/EddieBot/issues/237) in [EddieJaoudeCommunity/EddieBot](https://github.com//EddieJaoudeCommunity/EddieBot)
