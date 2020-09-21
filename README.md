@@ -4,11 +4,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#186](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/186) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-2. 🗣 Commented on [#186](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/186) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-3. 💪 Opened PR [#186](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/186) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-4. 🗣 Commented on [#175](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/175) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-5. 🗣 Commented on [#175](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/175) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+1. 🎉 Merged PR [#188](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/188) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+2. 🎉 Merged PR [#187](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/187) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+3. ❌ Closed PR [#186](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/186) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+4. 🗣 Commented on [#186](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/186) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+5. 💪 Opened PR [#186](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/186) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
 
 <!--
