@@ -4,11 +4,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#82](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/82) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-2. ❗️ Opened issue [#9](https://github.com//JasonEtco/readme-box/issues/9) in [JasonEtco/readme-box](https://github.com//JasonEtco/readme-box)
-3. 🗣 Commented on [#82](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/82) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-4. 🗣 Commented on [#247](https://github.com//EddieJaoudeCommunity/support/issues/247) in [EddieJaoudeCommunity/support](https://github.com//EddieJaoudeCommunity/support)
-5. ❗️ Opened issue [#99](https://github.com//EddieJaoudeCommunity/awesome-github-profiles/issues/99) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com//EddieJaoudeCommunity/awesome-github-profiles)
+1. ❗️ Opened issue [#17](https://github.com//EddieJaoudeCommunity/gh-actions-html-table-generator/issues/17) in [EddieJaoudeCommunity/gh-actions-html-table-generator](https://github.com//EddieJaoudeCommunity/gh-actions-html-table-generator)
+2. ❌ Closed PR [#10](https://github.com//JasonEtco/readme-box/pull/10) in [JasonEtco/readme-box](https://github.com//JasonEtco/readme-box)
+3. ❗️ Closed issue [#9](https://github.com//JasonEtco/readme-box/issues/9) in [JasonEtco/readme-box](https://github.com//JasonEtco/readme-box)
+4. 🗣 Commented on [#9](https://github.com//JasonEtco/readme-box/issues/9) in [JasonEtco/readme-box](https://github.com//JasonEtco/readme-box)
+5. 🗣 Commented on [#82](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/82) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
 
 <!--
