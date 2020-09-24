@@ -4,11 +4,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#17](https://github.com//EddieJaoudeCommunity/gh-actions-html-table-generator/issues/17) in [EddieJaoudeCommunity/gh-actions-html-table-generator](https://github.com//EddieJaoudeCommunity/gh-actions-html-table-generator)
-2. ❌ Closed PR [#10](https://github.com//JasonEtco/readme-box/pull/10) in [JasonEtco/readme-box](https://github.com//JasonEtco/readme-box)
-3. ❗️ Closed issue [#9](https://github.com//JasonEtco/readme-box/issues/9) in [JasonEtco/readme-box](https://github.com//JasonEtco/readme-box)
-4. 🗣 Commented on [#9](https://github.com//JasonEtco/readme-box/issues/9) in [JasonEtco/readme-box](https://github.com//JasonEtco/readme-box)
-5. 🗣 Commented on [#82](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/82) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+1. 🎉 Merged PR [#197](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/197) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
+2. ❗️ Closed issue [#18](https://github.com//EddieJaoudeCommunity/gh-actions-html-table-generator/issues/18) in [EddieJaoudeCommunity/gh-actions-html-table-generator](https://github.com//EddieJaoudeCommunity/gh-actions-html-table-generator)
+3. 🗣 Commented on [#18](https://github.com//EddieJaoudeCommunity/gh-actions-html-table-generator/issues/18) in [EddieJaoudeCommunity/gh-actions-html-table-generator](https://github.com//EddieJaoudeCommunity/gh-actions-html-table-generator)
+4. ❗️ Opened issue [#18](https://github.com//EddieJaoudeCommunity/gh-actions-html-table-generator/issues/18) in [EddieJaoudeCommunity/gh-actions-html-table-generator](https://github.com//EddieJaoudeCommunity/gh-actions-html-table-generator)
+5. ❗️ Opened issue [#17](https://github.com//EddieJaoudeCommunity/gh-actions-html-table-generator/issues/17) in [EddieJaoudeCommunity/gh-actions-html-table-generator](https://github.com//EddieJaoudeCommunity/gh-actions-html-table-generator)
 <!--END_SECTION:activity-->
 
 <!--
