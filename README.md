@@ -4,11 +4,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#168](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/issues/168) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-2. ❗️ Opened issue [#1](https://github.com//eync/corona-tracker.js/issues/1) in [eync/corona-tracker.js](https://github.com//eync/corona-tracker.js)
-3. 🗣 Commented on [#17](https://github.com//EddieJaoudeCommunity/gh-actions-html-table-generator/issues/17) in [EddieJaoudeCommunity/gh-actions-html-table-generator](https://github.com//EddieJaoudeCommunity/gh-actions-html-table-generator)
-4. 🎉 Merged PR [#197](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice/pull/197) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com//EddieJaoudeCommunity/hacktoberfest-practice)
-5. ❗️ Closed issue [#18](https://github.com//EddieJaoudeCommunity/gh-actions-html-table-generator/issues/18) in [EddieJaoudeCommunity/gh-actions-html-table-generator](https://github.com//EddieJaoudeCommunity/gh-actions-html-table-generator)
+1. 🗣 Commented on [#168](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/issues/168) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
+2. ❗️ Opened issue [#1](https://github.com/eync/corona-tracker.js/issues/1) in [eync/corona-tracker.js](https://github.com/eync/corona-tracker.js)
+3. 🗣 Commented on [#17](https://github.com/EddieJaoudeCommunity/gh-actions-html-table-generator/issues/17) in [EddieJaoudeCommunity/gh-actions-html-table-generator](https://github.com/EddieJaoudeCommunity/gh-actions-html-table-generator)
+4. 🎉 Merged PR [#197](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/197) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
+5. ❗️ Closed issue [#18](https://github.com/EddieJaoudeCommunity/gh-actions-html-table-generator/issues/18) in [EddieJaoudeCommunity/gh-actions-html-table-generator](https://github.com/EddieJaoudeCommunity/gh-actions-html-table-generator)
 <!--END_SECTION:activity-->
 
 <!--
