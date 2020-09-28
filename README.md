@@ -4,11 +4,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#264](https://github.com/EddieJaoudeCommunity/EddieBot/pull/264) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-2. 🗣 Commented on [#70](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/70) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-3. 🗣 Commented on [#168](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/issues/168) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
-4. ❗️ Opened issue [#1](https://github.com/eync/corona-tracker.js/issues/1) in [eync/corona-tracker.js](https://github.com/eync/corona-tracker.js)
-5. 🗣 Commented on [#17](https://github.com/EddieJaoudeCommunity/gh-actions-html-table-generator/issues/17) in [EddieJaoudeCommunity/gh-actions-html-table-generator](https://github.com/EddieJaoudeCommunity/gh-actions-html-table-generator)
+1. 🗣 Commented on [#75](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/75) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+2. 🗣 Commented on [#55](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/55) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+3. 💪 Opened PR [#264](https://github.com/EddieJaoudeCommunity/EddieBot/pull/264) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+4. 🗣 Commented on [#70](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/70) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+5. 🗣 Commented on [#168](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/issues/168) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
 
 <!--
