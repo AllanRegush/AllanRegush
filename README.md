@@ -4,11 +4,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#210](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/210) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
-2. 🗣 Commented on [#273](https://github.com/EddieJaoudeCommunity/EddieBot/issues/273) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-3. 🎉 Merged PR [#209](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/209) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
-4. 🗣 Commented on [#273](https://github.com/EddieJaoudeCommunity/EddieBot/issues/273) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-5. 🎉 Merged PR [#208](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/208) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
+1. 🗣 Commented on [#207](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/issues/207) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
+2. 🎉 Merged PR [#212](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/212) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
+3. ❌ Closed PR [#213](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/213) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
+4. 🗣 Commented on [#213](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/issues/213) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
+5. 🗣 Commented on [#213](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/issues/213) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
 
 <!--
