@@ -4,11 +4,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#81](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/81) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-2. ❗️ Opened issue [#81](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/81) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-3. 🎉 Merged PR [#226](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/226) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
-4. 🗣 Commented on [#274](https://github.com/EddieJaoudeCommunity/EddieBot/issues/274) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-5. 🗣 Commented on [#207](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/issues/207) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
+1. 💪 Opened PR [#280](https://github.com/EddieJaoudeCommunity/EddieBot/pull/280) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+2. 🗣 Commented on [#81](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/81) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+3. ❗️ Opened issue [#81](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/81) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+4. 🎉 Merged PR [#226](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/226) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
+5. 🗣 Commented on [#274](https://github.com/EddieJaoudeCommunity/EddieBot/issues/274) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
 <!--END_SECTION:activity-->
 
 <!--
