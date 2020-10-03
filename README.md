@@ -4,11 +4,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#90](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/90) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-2. 🗣 Commented on [#86](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/86) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-3. 🗣 Commented on [#87](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/87) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-4. 🗣 Commented on [#282](https://github.com/EddieJaoudeCommunity/EddieBot/issues/282) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-5. 💪 Opened PR [#87](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/pull/87) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+1. 🗣 Commented on [#285](https://github.com/EddieJaoudeCommunity/EddieBot/issues/285) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+2. 🗣 Commented on [#90](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/90) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+3. 🗣 Commented on [#86](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/86) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+4. 🗣 Commented on [#87](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/87) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
+5. 🗣 Commented on [#282](https://github.com/EddieJaoudeCommunity/EddieBot/issues/282) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
 <!--END_SECTION:activity-->
 
 <!--
