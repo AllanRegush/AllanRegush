@@ -4,11 +4,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#150](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/150) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-2. 🎉 Merged PR [#146](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/146) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-3. 💪 Opened PR [#299](https://github.com/EddieJaoudeCommunity/EddieBot/pull/299) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-4. ❗️ Opened issue [#315](https://github.com/EddieJaoudeCommunity/support/issues/315) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-5. 🗣 Commented on [#275](https://github.com/EddieJaoudeCommunity/EddieBot/issues/275) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+1. 🗣 Commented on [#20](https://github.com/EddieJaoudeCommunity/gh-actions-html-table-generator/issues/20) in [EddieJaoudeCommunity/gh-actions-html-table-generator](https://github.com/EddieJaoudeCommunity/gh-actions-html-table-generator)
+2. 🗣 Commented on [#150](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/150) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+3. 🎉 Merged PR [#146](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/146) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+4. 💪 Opened PR [#299](https://github.com/EddieJaoudeCommunity/EddieBot/pull/299) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+5. ❗️ Opened issue [#315](https://github.com/EddieJaoudeCommunity/support/issues/315) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
 
 <!--
