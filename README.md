@@ -4,11 +4,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#416](https://github.com/EddieJaoudeCommunity/support/issues/416) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-2. 🎉 Merged PR [#172](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/172) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-3. ❗️ Closed issue [#171](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/171) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-4. 🗣 Commented on [#172](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/172) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-5. 🗣 Commented on [#171](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/171) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+1. 💪 Opened PR [#128](https://github.com/Vyvy-vi/TearDrops/pull/128) in [Vyvy-vi/TearDrops](https://github.com/Vyvy-vi/TearDrops)
+2. ❗️ Opened issue [#127](https://github.com/Vyvy-vi/TearDrops/issues/127) in [Vyvy-vi/TearDrops](https://github.com/Vyvy-vi/TearDrops)
+3. ❗️ Opened issue [#416](https://github.com/EddieJaoudeCommunity/support/issues/416) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+4. 🎉 Merged PR [#172](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/172) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+5. ❗️ Closed issue [#171](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/171) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
 
 <!--
