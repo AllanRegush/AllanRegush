@@ -4,11 +4,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#171](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/171) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-2. 🎉 Merged PR [#170](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/170) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-3. ❗️ Opened issue [#115](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/115) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
-4. 🗣 Commented on [#5](https://github.com/EddieJaoudeCommunity/EddieCommunityApi/issues/5) in [EddieJaoudeCommunity/EddieCommunityApi](https://github.com/EddieJaoudeCommunity/EddieCommunityApi)
-5. ❗️ Opened issue [#1](https://github.com/AllanRegush/CSharp-Exploration/issues/1) in [AllanRegush/CSharp-Exploration](https://github.com/AllanRegush/CSharp-Exploration)
+1. ❗️ Opened issue [#416](https://github.com/EddieJaoudeCommunity/support/issues/416) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+2. 🎉 Merged PR [#172](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/172) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+3. ❗️ Closed issue [#171](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/171) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+4. 🗣 Commented on [#172](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/172) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+5. 🗣 Commented on [#171](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/171) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
 
 <!--
