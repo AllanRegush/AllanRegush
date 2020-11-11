@@ -4,11 +4,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#322](https://github.com/EddieJaoudeCommunity/EddieBot/issues/322) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-2. 🗣 Commented on [#178](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/178) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-3. 💪 Opened PR [#128](https://github.com/Vyvy-vi/TearDrops/pull/128) in [Vyvy-vi/TearDrops](https://github.com/Vyvy-vi/TearDrops)
-4. ❗️ Opened issue [#127](https://github.com/Vyvy-vi/TearDrops/issues/127) in [Vyvy-vi/TearDrops](https://github.com/Vyvy-vi/TearDrops)
-5. ❗️ Opened issue [#416](https://github.com/EddieJaoudeCommunity/support/issues/416) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+1. 🗣 Commented on [#323](https://github.com/EddieJaoudeCommunity/EddieBot/issues/323) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+2. 🗣 Commented on [#322](https://github.com/EddieJaoudeCommunity/EddieBot/issues/322) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+3. 🗣 Commented on [#178](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/178) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+4. 💪 Opened PR [#128](https://github.com/Vyvy-vi/TearDrops/pull/128) in [Vyvy-vi/TearDrops](https://github.com/Vyvy-vi/TearDrops)
+5. ❗️ Opened issue [#127](https://github.com/Vyvy-vi/TearDrops/issues/127) in [Vyvy-vi/TearDrops](https://github.com/Vyvy-vi/TearDrops)
 <!--END_SECTION:activity-->
 
 <!--
