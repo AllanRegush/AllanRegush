@@ -4,11 +4,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#463](https://github.com/EddieJaoudeCommunity/support/issues/463) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-2. ❗️ Closed issue [#1](https://github.com/AllanRegush/CSharp-Exploration/issues/1) in [AllanRegush/CSharp-Exploration](https://github.com/AllanRegush/CSharp-Exploration)
-3. 🗣 Commented on [#428](https://github.com/EddieJaoudeCommunity/support/issues/428) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-4. 💪 Opened PR [#135](https://github.com/Vyvy-vi/TearDrops/pull/135) in [Vyvy-vi/TearDrops](https://github.com/Vyvy-vi/TearDrops)
-5. ❗️ Opened issue [#134](https://github.com/Vyvy-vi/TearDrops/issues/134) in [Vyvy-vi/TearDrops](https://github.com/Vyvy-vi/TearDrops)
+1. 🗣 Commented on [#356](https://github.com/EddieJaoudeCommunity/EddieBot/issues/356) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+2. 🗣 Commented on [#355](https://github.com/EddieJaoudeCommunity/EddieBot/issues/355) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+3. 🗣 Commented on [#353](https://github.com/EddieJaoudeCommunity/EddieBot/issues/353) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+4. 🎉 Merged PR [#352](https://github.com/EddieJaoudeCommunity/EddieBot/pull/352) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+5. 🗣 Commented on [#347](https://github.com/EddieJaoudeCommunity/EddieBot/issues/347) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
 <!--END_SECTION:activity-->
 
 <!--
