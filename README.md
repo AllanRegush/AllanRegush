@@ -4,11 +4,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#224](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/issues/224) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
-2. 💪 Opened PR [#366](https://github.com/EddieJaoudeCommunity/EddieBot/pull/366) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-3. ❗️ Opened issue [#365](https://github.com/EddieJaoudeCommunity/EddieBot/issues/365) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-4. 🗣 Commented on [#354](https://github.com/EddieJaoudeCommunity/EddieBot/issues/354) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-5. 💪 Opened PR [#15](https://github.com/RasPiPkr/lottery/pull/15) in [RasPiPkr/lottery](https://github.com/RasPiPkr/lottery)
+1. ❗️ Opened issue [#508](https://github.com/EddieJaoudeCommunity/support/issues/508) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+2. 🗣 Commented on [#367](https://github.com/EddieJaoudeCommunity/EddieBot/issues/367) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+3. 🗣 Commented on [#367](https://github.com/EddieJaoudeCommunity/EddieBot/issues/367) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+4. 🗣 Commented on [#367](https://github.com/EddieJaoudeCommunity/EddieBot/issues/367) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+5. ❗️ Opened issue [#17](https://github.com/tusharnankani/ToDoList/issues/17) in [tusharnankani/ToDoList](https://github.com/tusharnankani/ToDoList)
 <!--END_SECTION:activity-->
 
 <!--
