@@ -4,11 +4,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#369](https://github.com/EddieJaoudeCommunity/EddieBot/pull/369) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-2. 🗣 Commented on [#515](https://github.com/EddieJaoudeCommunity/support/issues/515) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+1. 🗣 Commented on [#515](https://github.com/EddieJaoudeCommunity/support/issues/515) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+2. 🎉 Merged PR [#369](https://github.com/EddieJaoudeCommunity/EddieBot/pull/369) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
 3. 🗣 Commented on [#515](https://github.com/EddieJaoudeCommunity/support/issues/515) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-4. 🗣 Commented on [#516](https://github.com/EddieJaoudeCommunity/support/issues/516) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-5. 🗣 Commented on [#517](https://github.com/EddieJaoudeCommunity/support/issues/517) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+4. 🗣 Commented on [#515](https://github.com/EddieJaoudeCommunity/support/issues/515) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+5. 🗣 Commented on [#516](https://github.com/EddieJaoudeCommunity/support/issues/516) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
 
 <!--
