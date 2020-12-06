@@ -4,11 +4,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#367](https://github.com/EddieJaoudeCommunity/EddieBot/pull/367) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-2. 🗣 Commented on [#367](https://github.com/EddieJaoudeCommunity/EddieBot/issues/367) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-3. 🗣 Commented on [#367](https://github.com/EddieJaoudeCommunity/EddieBot/issues/367) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-4. ❗️ Opened issue [#508](https://github.com/EddieJaoudeCommunity/support/issues/508) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-5. 🗣 Commented on [#367](https://github.com/EddieJaoudeCommunity/EddieBot/issues/367) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+1. 🎉 Merged PR [#368](https://github.com/EddieJaoudeCommunity/EddieBot/pull/368) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+2. 🎉 Merged PR [#238](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/238) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
+3. 🎉 Merged PR [#494](https://github.com/EddieJaoudeCommunity/support/pull/494) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+4. ❗️ Closed issue [#468](https://github.com/EddieJaoudeCommunity/support/issues/468) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+5. ❌ Closed PR [#367](https://github.com/EddieJaoudeCommunity/EddieBot/pull/367) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
 <!--END_SECTION:activity-->
 
 <!--
