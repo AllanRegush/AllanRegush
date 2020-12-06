@@ -4,11 +4,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#241](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/241) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
-2. ❌ Reopened PR [#241](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/241) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
-3. ❌ Closed PR [#241](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/241) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
-4. 🎉 Merged PR [#368](https://github.com/EddieJaoudeCommunity/EddieBot/pull/368) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-5. 🎉 Merged PR [#238](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/238) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
+1. 🗣 Commented on [#515](https://github.com/EddieJaoudeCommunity/support/issues/515) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+2. 🗣 Commented on [#516](https://github.com/EddieJaoudeCommunity/support/issues/516) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+3. 🗣 Commented on [#517](https://github.com/EddieJaoudeCommunity/support/issues/517) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+4. 🎉 Merged PR [#241](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/241) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
+5. ❌ Reopened PR [#241](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/241) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
 
 <!--
