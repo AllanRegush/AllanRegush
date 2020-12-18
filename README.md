@@ -4,11 +4,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#191](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/191) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-2. 🎉 Merged PR [#189](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/189) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-3. ❗️ Closed issue [#188](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/188) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-4. 💪 Opened PR [#189](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/189) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-5. 🎉 Merged PR [#249](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/249) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
+1. 🎉 Merged PR [#393](https://github.com/EddieJaoudeCommunity/EddieBot/pull/393) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+2. ❗️ Closed issue [#357](https://github.com/EddieJaoudeCommunity/EddieBot/issues/357) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+3. 🗣 Commented on [#393](https://github.com/EddieJaoudeCommunity/EddieBot/issues/393) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+4. 🗣 Commented on [#394](https://github.com/EddieJaoudeCommunity/EddieBot/issues/394) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+5. 🗣 Commented on [#191](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/191) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
 
 <!--
