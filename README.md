@@ -4,11 +4,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#393](https://github.com/EddieJaoudeCommunity/EddieBot/pull/393) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-2. ❗️ Closed issue [#357](https://github.com/EddieJaoudeCommunity/EddieBot/issues/357) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-3. 🗣 Commented on [#393](https://github.com/EddieJaoudeCommunity/EddieBot/issues/393) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-4. 🗣 Commented on [#394](https://github.com/EddieJaoudeCommunity/EddieBot/issues/394) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-5. 🗣 Commented on [#191](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/191) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+1. 🎉 Merged PR [#2](https://github.com/AllanRegush/URL-Shortener-Microservice/pull/2) in [AllanRegush/URL-Shortener-Microservice](https://github.com/AllanRegush/URL-Shortener-Microservice)
+2. 🎉 Merged PR [#1](https://github.com/AllanRegush/URL-Shortener-Microservice/pull/1) in [AllanRegush/URL-Shortener-Microservice](https://github.com/AllanRegush/URL-Shortener-Microservice)
+3. 🎉 Merged PR [#393](https://github.com/EddieJaoudeCommunity/EddieBot/pull/393) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+4. ❗️ Closed issue [#357](https://github.com/EddieJaoudeCommunity/EddieBot/issues/357) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+5. 🗣 Commented on [#393](https://github.com/EddieJaoudeCommunity/EddieBot/issues/393) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
 <!--END_SECTION:activity-->
 
 <!--
