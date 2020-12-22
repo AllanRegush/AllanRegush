@@ -4,11 +4,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#395](https://github.com/EddieJaoudeCommunity/EddieBot/issues/395) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-2. ❗️ Closed issue [#390](https://github.com/EddieJaoudeCommunity/EddieBot/issues/390) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-3. 🗣 Commented on [#390](https://github.com/EddieJaoudeCommunity/EddieBot/issues/390) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-4. ❌ Closed PR [#391](https://github.com/EddieJaoudeCommunity/EddieBot/pull/391) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-5. 🗣 Commented on [#391](https://github.com/EddieJaoudeCommunity/EddieBot/issues/391) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+1. 🎉 Merged PR [#5](https://github.com/AllanRegush/time-stamp-microservice/pull/5) in [AllanRegush/time-stamp-microservice](https://github.com/AllanRegush/time-stamp-microservice)
+2. 🎉 Merged PR [#4](https://github.com/AllanRegush/time-stamp-microservice/pull/4) in [AllanRegush/time-stamp-microservice](https://github.com/AllanRegush/time-stamp-microservice)
+3. 🎉 Merged PR [#3](https://github.com/AllanRegush/time-stamp-microservice/pull/3) in [AllanRegush/time-stamp-microservice](https://github.com/AllanRegush/time-stamp-microservice)
+4. 🎉 Merged PR [#2](https://github.com/AllanRegush/time-stamp-microservice/pull/2) in [AllanRegush/time-stamp-microservice](https://github.com/AllanRegush/time-stamp-microservice)
+5. 🎉 Merged PR [#1](https://github.com/AllanRegush/time-stamp-microservice/pull/1) in [AllanRegush/time-stamp-microservice](https://github.com/AllanRegush/time-stamp-microservice)
 <!--END_SECTION:activity-->
 
 <!--
