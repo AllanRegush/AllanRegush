@@ -4,11 +4,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/AllanRegush/time-stamp-microservice/pull/5) in [AllanRegush/time-stamp-microservice](https://github.com/AllanRegush/time-stamp-microservice)
-2. 🎉 Merged PR [#4](https://github.com/AllanRegush/time-stamp-microservice/pull/4) in [AllanRegush/time-stamp-microservice](https://github.com/AllanRegush/time-stamp-microservice)
-3. 🎉 Merged PR [#3](https://github.com/AllanRegush/time-stamp-microservice/pull/3) in [AllanRegush/time-stamp-microservice](https://github.com/AllanRegush/time-stamp-microservice)
-4. 🎉 Merged PR [#2](https://github.com/AllanRegush/time-stamp-microservice/pull/2) in [AllanRegush/time-stamp-microservice](https://github.com/AllanRegush/time-stamp-microservice)
-5. 🎉 Merged PR [#1](https://github.com/AllanRegush/time-stamp-microservice/pull/1) in [AllanRegush/time-stamp-microservice](https://github.com/AllanRegush/time-stamp-microservice)
+1. 🗣 Commented on [#511](https://github.com/EddieJaoudeCommunity/support/issues/511) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+2. 🗣 Commented on [#398](https://github.com/EddieJaoudeCommunity/EddieBot/issues/398) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+3. 🗣 Commented on [#392](https://github.com/EddieJaoudeCommunity/EddieBot/issues/392) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+4. 🗣 Commented on [#394](https://github.com/EddieJaoudeCommunity/EddieBot/issues/394) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+5. 🎉 Merged PR [#5](https://github.com/AllanRegush/time-stamp-microservice/pull/5) in [AllanRegush/time-stamp-microservice](https://github.com/AllanRegush/time-stamp-microservice)
 <!--END_SECTION:activity-->
 
 <!--
