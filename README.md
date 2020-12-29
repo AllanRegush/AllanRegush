@@ -4,11 +4,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#398](https://github.com/EddieJaoudeCommunity/EddieBot/issues/398) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-2. 🎉 Merged PR [#1](https://github.com/AllanRegush/request-header-parser-microservice/pull/1) in [AllanRegush/request-header-parser-microservice](https://github.com/AllanRegush/request-header-parser-microservice)
-3. 🗣 Commented on [#398](https://github.com/EddieJaoudeCommunity/EddieBot/issues/398) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-4. 🗣 Commented on [#391](https://github.com/EddieJaoudeCommunity/EddieBot/issues/391) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-5. 🗣 Commented on [#511](https://github.com/EddieJaoudeCommunity/support/issues/511) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+1. 🗣 Commented on [#395](https://github.com/EddieJaoudeCommunity/EddieBot/issues/395) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+2. 🎉 Merged PR [#399](https://github.com/EddieJaoudeCommunity/EddieBot/pull/399) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+3. 🗣 Commented on [#399](https://github.com/EddieJaoudeCommunity/EddieBot/issues/399) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+4. 🗣 Commented on [#398](https://github.com/EddieJaoudeCommunity/EddieBot/issues/398) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+5. 🎉 Merged PR [#1](https://github.com/AllanRegush/request-header-parser-microservice/pull/1) in [AllanRegush/request-header-parser-microservice](https://github.com/AllanRegush/request-header-parser-microservice)
 <!--END_SECTION:activity-->
 
 <!--
