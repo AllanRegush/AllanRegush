@@ -17,11 +17,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#395](https://github.com/EddieJaoudeCommunity/EddieBot/issues/395) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-2. 🗣 Commented on [#246](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/246) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-3. 🗣 Commented on [#262](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/262) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-4. 🎉 Merged PR [#262](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/262) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-5. 💪 Opened PR [#268](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/268) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+1. 🎉 Merged PR [#425](https://github.com/EddieJaoudeCommunity/EddieBot/pull/425) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+2. ❗️ Closed issue [#420](https://github.com/EddieJaoudeCommunity/EddieBot/issues/420) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+3. 🎉 Merged PR [#257](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/257) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
+4. 🎉 Merged PR [#260](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/260) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
+5. 🎉 Merged PR [#259](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/259) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
 
 <!--
