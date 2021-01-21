@@ -4,11 +4,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#264](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/264) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-2. 🎉 Merged PR [#263](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/263) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-3. 💪 Opened PR [#262](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/262) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-4. ❗️ Closed issue [#261](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/261) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-5. 🗣 Commented on [#261](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/261) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+1. 🗣 Commented on [#395](https://github.com/EddieJaoudeCommunity/EddieBot/issues/395) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+2. 🗣 Commented on [#246](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/246) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+3. 🗣 Commented on [#262](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/262) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+4. 🎉 Merged PR [#262](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/262) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+5. 💪 Opened PR [#268](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/268) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
 
 <!--
