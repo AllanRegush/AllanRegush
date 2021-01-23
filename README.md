@@ -17,11 +17,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#425](https://github.com/EddieJaoudeCommunity/EddieBot/pull/425) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-2. ❗️ Closed issue [#420](https://github.com/EddieJaoudeCommunity/EddieBot/issues/420) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-3. 🎉 Merged PR [#257](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/257) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
-4. 🎉 Merged PR [#260](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/260) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
-5. 🎉 Merged PR [#259](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/259) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
+1. 🎉 Merged PR [#278](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/278) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+2. ❗️ Closed issue [#277](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/277) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+3. 💪 Opened PR [#278](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/278) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+4. ❗️ Opened issue [#277](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/277) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+5. 🎉 Merged PR [#270](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/270) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
 
 <!--
