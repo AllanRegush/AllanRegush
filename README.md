@@ -17,11 +17,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#278](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/278) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-2. ❗️ Closed issue [#277](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/277) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-3. 💪 Opened PR [#278](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/278) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-4. ❗️ Opened issue [#277](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/277) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-5. 🎉 Merged PR [#270](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/270) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+1. ❗️ Opened issue [#427](https://github.com/EddieJaoudeCommunity/EddieBot/issues/427) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+2. 🎉 Merged PR [#261](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/261) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
+3. 🗣 Commented on [#395](https://github.com/EddieJaoudeCommunity/EddieBot/issues/395) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+4. 🗣 Commented on [#426](https://github.com/EddieJaoudeCommunity/EddieBot/issues/426) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+5. ❌ Closed PR [#246](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/246) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
 
 <!--
