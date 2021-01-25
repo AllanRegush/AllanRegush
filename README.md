@@ -17,11 +17,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#189](https://github.com/Vyvy-vi/TearDrops/issues/189) in [Vyvy-vi/TearDrops](https://github.com/Vyvy-vi/TearDrops)
-2. 🎉 Merged PR [#262](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/262) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
-3. 🎉 Merged PR [#428](https://github.com/EddieJaoudeCommunity/EddieBot/pull/428) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-4. ❗️ Closed issue [#427](https://github.com/EddieJaoudeCommunity/EddieBot/issues/427) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-5. ❗️ Opened issue [#427](https://github.com/EddieJaoudeCommunity/EddieBot/issues/427) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
+1. 🎉 Merged PR [#264](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/264) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
+2. 🗣 Commented on [#263](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/issues/263) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
+3. ❗️ Opened issue [#189](https://github.com/Vyvy-vi/TearDrops/issues/189) in [Vyvy-vi/TearDrops](https://github.com/Vyvy-vi/TearDrops)
+4. 🎉 Merged PR [#262](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/262) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
+5. 🎉 Merged PR [#428](https://github.com/EddieJaoudeCommunity/EddieBot/pull/428) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
 <!--END_SECTION:activity-->
 
 <!--
