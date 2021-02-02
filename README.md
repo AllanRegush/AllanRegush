@@ -17,11 +17,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#268](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/268) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-2. ❌ Closed PR [#296](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/296) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-3. 🗣 Commented on [#296](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/296) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-4. 🎉 Merged PR [#290](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/290) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-5. ❌ Closed PR [#294](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/294) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+1. 🎉 Merged PR [#847](https://github.com/EddieHubCommunity/support/pull/847) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. ❗️ Closed issue [#839](https://github.com/EddieHubCommunity/support/issues/839) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🎉 Merged PR [#299](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/299) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+4. ❗️ Closed issue [#298](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/298) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+5. 🗣 Commented on [#299](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/299) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
 
 <!--
