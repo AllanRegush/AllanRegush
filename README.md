@@ -17,11 +17,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#305](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/305) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-2. 🎉 Merged PR [#303](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/303) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-3. 🎉 Merged PR [#436](https://github.com/EddieHubCommunity/EddieBot/pull/436) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-4. 🗣 Commented on [#422](https://github.com/EddieHubCommunity/EddieBot/issues/422) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-5. 🎉 Merged PR [#847](https://github.com/EddieHubCommunity/support/pull/847) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 💪 Opened PR [#2](https://github.com/AllanRegushYoutube/learning-an-opensource-repo/pull/2) in [AllanRegushYoutube/learning-an-opensource-repo](https://github.com/AllanRegushYoutube/learning-an-opensource-repo)
+2. ❗️ Opened issue [#1](https://github.com/AllanRegushYoutube/learning-an-opensource-repo/issues/1) in [AllanRegushYoutube/learning-an-opensource-repo](https://github.com/AllanRegushYoutube/learning-an-opensource-repo)
+3. 🗣 Commented on [#432](https://github.com/EddieHubCommunity/EddieBot/issues/432) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+4. 🗣 Commented on [#305](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/305) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+5. 🎉 Merged PR [#303](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/303) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
 
 <!--
