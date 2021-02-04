@@ -17,11 +17,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#432](https://github.com/EddieHubCommunity/EddieBot/pull/432) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-2. ❗️ Closed issue [#345](https://github.com/EddieHubCommunity/EddieBot/issues/345) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-3. ❗️ Opened issue [#9](https://github.com/AllanRegushYoutube/learning-an-opensource-repo/issues/9) in [AllanRegushYoutube/learning-an-opensource-repo](https://github.com/AllanRegushYoutube/learning-an-opensource-repo)
-4. ❗️ Opened issue [#8](https://github.com/AllanRegushYoutube/learning-an-opensource-repo/issues/8) in [AllanRegushYoutube/learning-an-opensource-repo](https://github.com/AllanRegushYoutube/learning-an-opensource-repo)
-5. ❗️ Opened issue [#7](https://github.com/AllanRegushYoutube/learning-an-opensource-repo/issues/7) in [AllanRegushYoutube/learning-an-opensource-repo](https://github.com/AllanRegushYoutube/learning-an-opensource-repo)
+1. 🎉 Merged PR [#11](https://github.com/AllanRegushYoutube/learning-an-opensource-repo/pull/11) in [AllanRegushYoutube/learning-an-opensource-repo](https://github.com/AllanRegushYoutube/learning-an-opensource-repo)
+2. 🎉 Merged PR [#10](https://github.com/AllanRegushYoutube/learning-an-opensource-repo/pull/10) in [AllanRegushYoutube/learning-an-opensource-repo](https://github.com/AllanRegushYoutube/learning-an-opensource-repo)
+3. 🗣 Commented on [#10](https://github.com/AllanRegushYoutube/learning-an-opensource-repo/issues/10) in [AllanRegushYoutube/learning-an-opensource-repo](https://github.com/AllanRegushYoutube/learning-an-opensource-repo)
+4. 🎉 Merged PR [#432](https://github.com/EddieHubCommunity/EddieBot/pull/432) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+5. ❗️ Closed issue [#345](https://github.com/EddieHubCommunity/EddieBot/issues/345) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
 <!--END_SECTION:activity-->
 
 <!--
