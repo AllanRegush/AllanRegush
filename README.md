@@ -17,11 +17,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/AllanRegushYoutube/learning-an-opensource-repo/pull/11) in [AllanRegushYoutube/learning-an-opensource-repo](https://github.com/AllanRegushYoutube/learning-an-opensource-repo)
-2. 🎉 Merged PR [#10](https://github.com/AllanRegushYoutube/learning-an-opensource-repo/pull/10) in [AllanRegushYoutube/learning-an-opensource-repo](https://github.com/AllanRegushYoutube/learning-an-opensource-repo)
-3. 🗣 Commented on [#10](https://github.com/AllanRegushYoutube/learning-an-opensource-repo/issues/10) in [AllanRegushYoutube/learning-an-opensource-repo](https://github.com/AllanRegushYoutube/learning-an-opensource-repo)
-4. 🎉 Merged PR [#432](https://github.com/EddieHubCommunity/EddieBot/pull/432) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-5. ❗️ Closed issue [#345](https://github.com/EddieHubCommunity/EddieBot/issues/345) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+1. ❗️ Closed issue [#506](https://github.com/EddieHubCommunity/support/issues/506) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#506](https://github.com/EddieHubCommunity/support/issues/506) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🎉 Merged PR [#271](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/271) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+4. 🗣 Commented on [#271](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/271) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+5. 🎉 Merged PR [#270](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/270) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
 
 <!--
