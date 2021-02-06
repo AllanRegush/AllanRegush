@@ -17,11 +17,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/AllanRegushYoutube/learning-an-opensource-repo/issues/8) in [AllanRegushYoutube/learning-an-opensource-repo](https://github.com/AllanRegushYoutube/learning-an-opensource-repo)
-2. 🎉 Merged PR [#12](https://github.com/AllanRegushYoutube/learning-an-opensource-repo/pull/12) in [AllanRegushYoutube/learning-an-opensource-repo](https://github.com/AllanRegushYoutube/learning-an-opensource-repo)
-3. ❗️ Closed issue [#4](https://github.com/AllanRegushYoutube/learning-an-opensource-repo/issues/4) in [AllanRegushYoutube/learning-an-opensource-repo](https://github.com/AllanRegushYoutube/learning-an-opensource-repo)
-4. ❗️ Closed issue [#3](https://github.com/AllanRegushYoutube/learning-an-opensource-repo/issues/3) in [AllanRegushYoutube/learning-an-opensource-repo](https://github.com/AllanRegushYoutube/learning-an-opensource-repo)
-5. ❗️ Closed issue [#506](https://github.com/EddieHubCommunity/support/issues/506) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🗣 Commented on [#318](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/318) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+2. 🎉 Merged PR [#317](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/317) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+3. ❗️ Closed issue [#306](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/306) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+4. 🗣 Commented on [#211](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/211) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+5. ❗️ Closed issue [#319](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/319) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
 
 <!--
