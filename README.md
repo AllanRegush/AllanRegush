@@ -17,11 +17,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#318](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/318) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-2. 🎉 Merged PR [#317](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/317) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-3. ❗️ Closed issue [#306](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/306) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-4. 🗣 Commented on [#211](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/211) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-5. ❗️ Closed issue [#319](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/319) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+1. 🎉 Merged PR [#272](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/272) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+2. 🗣 Commented on [#59](https://github.com/EddieHubCommunity/gh-action-community/issues/59) in [EddieHubCommunity/gh-action-community](https://github.com/EddieHubCommunity/gh-action-community)
+3. 🗣 Commented on [#337](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/337) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+4. 🗣 Commented on [#331](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/331) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+5. 🗣 Commented on [#318](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/318) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
 
 <!--
