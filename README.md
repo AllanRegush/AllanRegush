@@ -17,11 +17,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#348](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/348) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-2. 🎉 Merged PR [#347](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/347) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-3. 🗣 Commented on [#343](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/343) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-4. 🎉 Merged PR [#341](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/341) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-5. 🗣 Commented on [#334](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/334) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+1. ❗️ Opened issue [#1](https://github.com/TawfikYasser/google-resume-template/issues/1) in [TawfikYasser/google-resume-template](https://github.com/TawfikYasser/google-resume-template)
+2. 💪 Opened PR [#348](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/348) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+3. 🎉 Merged PR [#347](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/347) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+4. 🗣 Commented on [#343](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/343) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+5. 🎉 Merged PR [#341](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/341) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
 
 <!--
