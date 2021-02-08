@@ -17,11 +17,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/AllanRegushYoutube/learning-an-opensource-repo/pull/13) in [AllanRegushYoutube/learning-an-opensource-repo](https://github.com/AllanRegushYoutube/learning-an-opensource-repo)
+1. 🎉 Merged PR [#347](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/347) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
 2. 🗣 Commented on [#343](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/343) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-3. 🗣 Commented on [#341](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/341) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-4. 🎉 Merged PR [#339](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/339) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-5. 🗣 Commented on [#336](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/336) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+3. 🎉 Merged PR [#341](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/341) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+4. 🗣 Commented on [#334](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/334) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+5. 🗣 Commented on [#243](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/243) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
 
 <!--
