@@ -17,11 +17,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#346](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/346) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-2. 🎉 Merged PR [#352](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/352) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-3. 🗣 Commented on [#437](https://github.com/EddieHubCommunity/EddieBot/issues/437) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-4. 🗣 Commented on [#343](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/343) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-5. 🗣 Commented on [#346](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/346) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+1. 🗣 Commented on [#422](https://github.com/EddieHubCommunity/EddieBot/issues/422) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+2. 🗣 Commented on [#422](https://github.com/EddieHubCommunity/EddieBot/issues/422) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+3. 🗣 Commented on [#314](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/314) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+4. 🗣 Commented on [#331](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/331) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+5. 🗣 Commented on [#343](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/343) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
 
 <!--
