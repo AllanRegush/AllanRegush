@@ -17,11 +17,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#334](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/334) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-2. 🗣 Commented on [#334](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/334) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-3. 🗣 Commented on [#895](https://github.com/EddieHubCommunity/support/issues/895) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 🗣 Commented on [#902](https://github.com/EddieHubCommunity/support/issues/902) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. 🎉 Merged PR [#914](https://github.com/EddieHubCommunity/support/pull/914) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🗣 Commented on [#422](https://github.com/EddieHubCommunity/EddieBot/issues/422) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+2. 🗣 Commented on [#423](https://github.com/EddieHubCommunity/EddieBot/issues/423) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+3. 🗣 Commented on [#424](https://github.com/EddieHubCommunity/EddieBot/issues/424) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+4. 🎉 Merged PR [#334](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/334) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+5. 🗣 Commented on [#334](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/334) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
 
 <!--
