@@ -17,11 +17,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#451](https://github.com/EddieHubCommunity/EddieBot/pull/451) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-2. ❗️ Closed issue [#437](https://github.com/EddieHubCommunity/EddieBot/issues/437) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-3. 🎉 Merged PR [#962](https://github.com/EddieHubCommunity/support/pull/962) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. ❗️ Closed issue [#961](https://github.com/EddieHubCommunity/support/issues/961) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. 🗣 Commented on [#962](https://github.com/EddieHubCommunity/support/issues/962) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🎉 Merged PR [#285](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/285) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+2. 🎉 Merged PR [#281](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/281) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+3. 🎉 Merged PR [#451](https://github.com/EddieHubCommunity/EddieBot/pull/451) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+4. ❗️ Closed issue [#437](https://github.com/EddieHubCommunity/EddieBot/issues/437) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+5. 🎉 Merged PR [#962](https://github.com/EddieHubCommunity/support/pull/962) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 
 <!--
