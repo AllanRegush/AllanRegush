@@ -17,11 +17,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42](https://github.com/eddiejaoude/stargate/issues/42) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
-2. 🗣 Commented on [#288](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/288) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-3. 🎉 Merged PR [#455](https://github.com/EddieHubCommunity/EddieBot/pull/455) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-4. ❗️ Closed issue [#454](https://github.com/EddieHubCommunity/EddieBot/issues/454) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-5. 🎉 Merged PR [#289](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/289) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+1. 🗣 Commented on [#51](https://github.com/eddiejaoude/stargate/issues/51) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
+2. 🗣 Commented on [#42](https://github.com/eddiejaoude/stargate/issues/42) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
+3. 🗣 Commented on [#288](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/288) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+4. 🎉 Merged PR [#455](https://github.com/EddieHubCommunity/EddieBot/pull/455) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+5. ❗️ Closed issue [#454](https://github.com/EddieHubCommunity/EddieBot/issues/454) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
 <!--END_SECTION:activity-->
 
 <!--
