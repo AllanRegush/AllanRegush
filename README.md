@@ -17,11 +17,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#414](https://github.com/EddieHubCommunity/EddieBot/issues/414) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-2. 🗣 Commented on [#383](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/383) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-3. 🗣 Commented on [#386](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/386) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-4. 🎉 Merged PR [#295](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/295) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-5. 🗣 Commented on [#291](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/291) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+1. 🎉 Merged PR [#389](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/389) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+2. ❗️ Closed issue [#388](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/388) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+3. 🗣 Commented on [#462](https://github.com/EddieHubCommunity/EddieBot/issues/462) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+4. 💪 Opened PR [#463](https://github.com/EddieHubCommunity/EddieBot/pull/463) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+5. 🗣 Commented on [#462](https://github.com/EddieHubCommunity/EddieBot/issues/462) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
 <!--END_SECTION:activity-->
 
 <!--
