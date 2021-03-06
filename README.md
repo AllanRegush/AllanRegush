@@ -17,11 +17,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#391](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/391) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-2. ❗️ Closed issue [#390](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/390) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-3. 🗣 Commented on [#463](https://github.com/EddieHubCommunity/EddieBot/issues/463) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-4. 🎉 Merged PR [#465](https://github.com/EddieHubCommunity/EddieBot/pull/465) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-5. 🗣 Commented on [#391](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/391) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+1. ❗️ Opened issue [#68](https://github.com/eddiejaoude/stargate/issues/68) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
+2. 🎉 Merged PR [#391](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/391) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+3. ❗️ Closed issue [#390](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/390) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+4. 🗣 Commented on [#463](https://github.com/EddieHubCommunity/EddieBot/issues/463) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+5. 🎉 Merged PR [#465](https://github.com/EddieHubCommunity/EddieBot/pull/465) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
 <!--END_SECTION:activity-->
 
 <!--
