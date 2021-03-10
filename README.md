@@ -17,11 +17,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#471](https://github.com/EddieHubCommunity/EddieBot/pull/471) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-2. 🎉 Merged PR [#395](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/395) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-3. ❗️ Closed issue [#394](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/394) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-4. 🗣 Commented on [#392](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/392) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-5. 🗣 Commented on [#379](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/379) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+1. 🎉 Merged PR [#20](https://github.com/EddieHubCommunity/Hackathons/pull/20) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
+2. ❗️ Closed issue [#19](https://github.com/EddieHubCommunity/Hackathons/issues/19) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
+3. 🎉 Merged PR [#298](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/298) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+4. 🎉 Merged PR [#470](https://github.com/EddieHubCommunity/EddieBot/pull/470) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+5. ❗️ Closed issue [#469](https://github.com/EddieHubCommunity/EddieBot/issues/469) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
 <!--END_SECTION:activity-->
 
 <!--
