@@ -17,11 +17,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#292](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/292) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-2. 🗣 Commented on [#293](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/293) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-3. 🎉 Merged PR [#980](https://github.com/EddieHubCommunity/support/pull/980) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 🗣 Commented on [#463](https://github.com/EddieHubCommunity/EddieBot/issues/463) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-5. 🎉 Merged PR [#463](https://github.com/EddieHubCommunity/EddieBot/pull/463) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+1. 🎉 Merged PR [#471](https://github.com/EddieHubCommunity/EddieBot/pull/471) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+2. 🎉 Merged PR [#395](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/395) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+3. ❗️ Closed issue [#394](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/394) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+4. 🗣 Commented on [#392](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/392) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+5. 🗣 Commented on [#379](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/379) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
 
 <!--
