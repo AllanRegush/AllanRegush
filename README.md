@@ -17,11 +17,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33](https://github.com/EddieHubCommunity/api/issues/33) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-2. 🗣 Commented on [#33](https://github.com/EddieHubCommunity/api/issues/33) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-3. 🎉 Merged PR [#20](https://github.com/EddieHubCommunity/Hackathons/pull/20) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
-4. ❗️ Closed issue [#19](https://github.com/EddieHubCommunity/Hackathons/issues/19) in [EddieHubCommunity/Hackathons](https://github.com/EddieHubCommunity/Hackathons)
-5. 🎉 Merged PR [#298](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/298) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+1. 🎉 Merged PR [#305](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/305) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+2. 🗣 Commented on [#304](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/304) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+3. 🎉 Merged PR [#304](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/304) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+4. 🎉 Merged PR [#301](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/301) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+5. ❗️ Closed issue [#299](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/299) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
 
 <!--
