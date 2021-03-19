@@ -17,11 +17,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#269](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/269) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-2. 🎉 Merged PR [#305](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/305) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-3. 🗣 Commented on [#304](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/304) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-4. 🎉 Merged PR [#304](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/304) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-5. 🎉 Merged PR [#301](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/301) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+1. 🎉 Merged PR [#402](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/402) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+2. ❗️ Closed issue [#401](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/401) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+3. 🎉 Merged PR [#311](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/311) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+4. 🎉 Merged PR [#309](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/309) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+5. 🗣 Commented on [#309](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/309) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
 
 <!--
