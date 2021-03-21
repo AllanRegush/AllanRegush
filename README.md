@@ -18,10 +18,10 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 ##### My Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#33](https://github.com/EddieHubCommunity/api/issues/33) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-2. 🎉 Merged PR [#402](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/402) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-3. ❗️ Closed issue [#401](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/401) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-4. 🎉 Merged PR [#311](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/311) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-5. 🎉 Merged PR [#309](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/309) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+2. 🗣 Commented on [#33](https://github.com/EddieHubCommunity/api/issues/33) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+3. 🎉 Merged PR [#402](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/402) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+4. ❗️ Closed issue [#401](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/401) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+5. 🎉 Merged PR [#311](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/311) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
 
 <!--
