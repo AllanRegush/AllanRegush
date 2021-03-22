@@ -17,11 +17,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#404](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/404) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-2. ❗️ Closed issue [#403](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/403) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-3. 🗣 Commented on [#400](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/400) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-4. 🗣 Commented on [#475](https://github.com/EddieHubCommunity/EddieBot/issues/475) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-5. 🗣 Commented on [#1080](https://github.com/EddieHubCommunity/support/issues/1080) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. ❗️ Closed issue [#446](https://github.com/EddieHubCommunity/EddieBot/issues/446) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+2. 🎉 Merged PR [#475](https://github.com/EddieHubCommunity/EddieBot/pull/475) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+3. 🗣 Commented on [#406](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/406) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+4. 🗣 Commented on [#400](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/400) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+5. 🎉 Merged PR [#404](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/404) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
 
 <!--
