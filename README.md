@@ -17,11 +17,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#479](https://github.com/EddieHubCommunity/EddieBot/issues/479) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-2. ❗️ Opened issue [#1](https://github.com/ALR-Learn/QTLearningPath/issues/1) in [ALR-Learn/QTLearningPath](https://github.com/ALR-Learn/QTLearningPath)
-3. 🗣 Commented on [#392](https://github.com/EddieHubCommunity/EddieBot/issues/392) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-4. 🗣 Commented on [#471](https://github.com/EddieHubCommunity/EddieBot/issues/471) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-5. ❗️ Closed issue [#446](https://github.com/EddieHubCommunity/EddieBot/issues/446) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+1. 🎉 Merged PR [#414](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/414) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+2. ❗️ Closed issue [#412](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/412) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+3. 🗣 Commented on [#416](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/416) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+4. 🗣 Commented on [#1179](https://github.com/EddieHubCommunity/support/issues/1179) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 🎉 Merged PR [#1191](https://github.com/EddieHubCommunity/support/pull/1191) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 
 <!--
