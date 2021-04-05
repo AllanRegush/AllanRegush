@@ -17,11 +17,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#423](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/423) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-2. 🎉 Merged PR [#428](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/428) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-3. 🗣 Commented on [#426](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/426) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-4. ❗️ Closed issue [#425](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/425) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-5. 🎉 Merged PR [#426](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/426) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+1. 💪 Opened PR [#434](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/434) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+2. ❗️ Opened issue [#433](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/433) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+3. 🎉 Merged PR [#432](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/432) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+4. ❗️ Closed issue [#431](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/431) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+5. 🎉 Merged PR [#430](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/430) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
 
 <!--
