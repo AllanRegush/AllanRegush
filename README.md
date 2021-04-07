@@ -17,11 +17,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/AllanRegush/coreutls/pull/2) in [AllanRegush/coreutls](https://github.com/AllanRegush/coreutls)
-2. ❗️ Opened issue [#1](https://github.com/AllanRegush/coreutls/issues/1) in [AllanRegush/coreutls](https://github.com/AllanRegush/coreutls)
-3. 🎉 Merged PR [#1222](https://github.com/EddieHubCommunity/support/pull/1222) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 🎉 Merged PR [#1246](https://github.com/EddieHubCommunity/support/pull/1246) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. 🎉 Merged PR [#314](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/314) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+1. 🎉 Merged PR [#2](https://github.com/AllanRegush/coreutls/pull/2) in [AllanRegush/coreutls](https://github.com/AllanRegush/coreutls)
+2. ❗️ Closed issue [#1](https://github.com/AllanRegush/coreutls/issues/1) in [AllanRegush/coreutls](https://github.com/AllanRegush/coreutls)
+3. 💪 Opened PR [#2](https://github.com/AllanRegush/coreutls/pull/2) in [AllanRegush/coreutls](https://github.com/AllanRegush/coreutls)
+4. ❗️ Opened issue [#1](https://github.com/AllanRegush/coreutls/issues/1) in [AllanRegush/coreutls](https://github.com/AllanRegush/coreutls)
+5. 🎉 Merged PR [#1222](https://github.com/EddieHubCommunity/support/pull/1222) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 
 <!--
