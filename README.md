@@ -17,11 +17,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/AllanRegush/coreutls/pull/2) in [AllanRegush/coreutls](https://github.com/AllanRegush/coreutls)
-2. ❗️ Closed issue [#1](https://github.com/AllanRegush/coreutls/issues/1) in [AllanRegush/coreutls](https://github.com/AllanRegush/coreutls)
-3. 💪 Opened PR [#2](https://github.com/AllanRegush/coreutls/pull/2) in [AllanRegush/coreutls](https://github.com/AllanRegush/coreutls)
-4. ❗️ Opened issue [#1](https://github.com/AllanRegush/coreutls/issues/1) in [AllanRegush/coreutls](https://github.com/AllanRegush/coreutls)
-5. 🎉 Merged PR [#1222](https://github.com/EddieHubCommunity/support/pull/1222) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🗣 Commented on [#482](https://github.com/EddieHubCommunity/EddieBot/issues/482) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+2. 🎉 Merged PR [#422](https://github.com/EddieHubCommunity/EddieBot/pull/422) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+3. ❗️ Closed issue [#419](https://github.com/EddieHubCommunity/EddieBot/issues/419) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+4. 🗣 Commented on [#422](https://github.com/EddieHubCommunity/EddieBot/issues/422) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+5. 🎉 Merged PR [#2](https://github.com/AllanRegush/coreutls/pull/2) in [AllanRegush/coreutls](https://github.com/AllanRegush/coreutls)
 <!--END_SECTION:activity-->
 
 <!--
