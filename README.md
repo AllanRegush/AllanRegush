@@ -17,11 +17,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#461](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/461) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-2. 🎉 Merged PR [#463](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/463) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-3. ❗️ Closed issue [#462](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/462) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-4. 🗣 Commented on [#463](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/463) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-5. 🎉 Merged PR [#466](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/466) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+1. 🎉 Merged PR [#327](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/327) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+2. 🎉 Merged PR [#329](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/329) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+3. 🗣 Commented on [#329](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/329) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+4. 🗣 Commented on [#331](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/331) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+5. 🎉 Merged PR [#331](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/331) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
 
 <!--
