@@ -17,11 +17,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#168](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/pull/168) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
-2. ❗️ Opened issue [#167](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/167) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
-3. 🎉 Merged PR [#327](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/327) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-4. 🎉 Merged PR [#329](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/329) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-5. 🗣 Commented on [#329](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/329) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+1. 🗣 Commented on [#159](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/159) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+2. 💪 Opened PR [#168](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/pull/168) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+3. ❗️ Opened issue [#167](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/167) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+4. 🎉 Merged PR [#327](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/327) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+5. 🎉 Merged PR [#329](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/329) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
 
 <!--
