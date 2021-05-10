@@ -17,11 +17,11 @@ I'm Allan. I've held roles in Hardware, Ops and QA. I'm passionate about all thi
 
 ##### My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#334](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/334) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-2. 🎉 Merged PR [#335](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/335) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-3. 🎉 Merged PR [#336](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/336) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-4. 🗣 Commented on [#159](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/159) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
-5. 💪 Opened PR [#168](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/pull/168) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+1. 🎉 Merged PR [#338](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/338) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+2. 🎉 Merged PR [#334](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/334) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+3. 🎉 Merged PR [#335](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/335) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+4. 🎉 Merged PR [#336](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/336) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+5. 🗣 Commented on [#159](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/159) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
 <!--END_SECTION:activity-->
 
 <!--
